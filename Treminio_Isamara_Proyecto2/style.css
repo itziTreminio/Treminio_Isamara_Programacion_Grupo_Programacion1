@@ -1,0 +1,38 @@
+.container {
+  width: 400px;
+  margin: 50px auto;
+  font-family: Arial, sans-serif;
+  text-align: left;
+}
+
+h1 {
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin-top: 6px;
+  box-sizing: border-box;
+}
+
+button {
+  width: 100%;
+  padding: 12px;
+  cursor: pointer;
+}
+
+.error {
+  color: red;
+  margin-top: 8px;
+}
+
+.success {
+  color: green;
+  margin-top: 15px;
+  text-align: center;
+}
